@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/NathaliaBarreiros/ProofLocation">
+    <img src="public/Logo.png" alt="Logo" width="auto" height="120">
+  </a>
+
+<h3 align="center">Private Biometric Authentication</h3>
+
+  <p align="center">
+    UPDATE THIS
+    <br />
+    <a href="https://github.com/https://github.com/Privacy-Lab-Latam-Builders/voizk-app/issues/new?labels=bug&template=bug-report.md">Report Bug</a>
+    ·
+    <a href="https://github.com/https://github.com/Privacy-Lab-Latam-Builders/voizk-app/issues/new?labels=enhancement&template=feature-request.md">Request Feature</a>
+  </p>
+</div>
 
 ## Getting Started
 
